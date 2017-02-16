@@ -13,7 +13,7 @@
 
 출제자 유의 사항
 
-링크 : 
+[출제자 유의사항](https://github.com/TeamMIRINE/Test/blob/master/Notice.md)
 
 **유의 사항을 어길 경우 불합격처리됩니다**
 
